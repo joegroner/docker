@@ -1,2 +1,2 @@
 # docker
-custom docker containers
+Joe Groner's custom docker containers: [Docker Hub](https://hub.docker.com/r/joegroner/)
